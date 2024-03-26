@@ -8,7 +8,7 @@ EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything
 Run the following command to try the demo:
 
 ```shell
-# detect on camera input
+# open a page in local server
 python demo.py
 
 ```
